@@ -9,6 +9,11 @@ pinned: false
 license: mit
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/157b5c5e-2156-4791-8840-7fc09635602e" alt="SafeAct-Env — Train AI agents to handle irreversible actions safely" width="100%">
+</p>
+
+
 # SafeAct-Env
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
